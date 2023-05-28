@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
 
-file1
+int mergesort(){
+	cout<<"merge sort";
+}
 int main()
 {
 	cout<<"op";
