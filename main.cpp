@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
 
-file1
+void quicksort(){
+	cout<<"quick sort";
+}
 int main()
 {
 	cout<<"op";
